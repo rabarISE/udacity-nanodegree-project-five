@@ -1,7 +1,4 @@
 
-TO-DO: google maps streetview to look for parks option???
-
-
 
 # Neighborhood Map - Project 5
 ---
@@ -16,7 +13,7 @@ The purpose of the project is to combine all previous lessons learned during the
 
 ### How to Use
 ---
-Link:
+Open the page by clicking on index.html, or visit http://victoriadjeffrey.com/neighborhood-map/index.html
 
 The screen will show a Google Map of Phoenix, AZ, with several locations of interest set up as pins on the map. Locations can be chosen by:
 
