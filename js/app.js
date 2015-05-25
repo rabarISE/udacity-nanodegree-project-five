@@ -333,21 +333,21 @@ var MarkerOpt = function() {
             url = 'img/marker-50.png',
                 size = new google.maps.Size(14, 30),
                 origin = new google.maps.Point(0, 0),
-                anchor = new google.maps.Point(6, 28)
+                anchor = new google.maps.Point(6, 28);
         }
         shape: {
             coords = [1, 1, 13, 1, 13, 29, 1, 29],
-                type = 'poly'
+                type = 'poly';
         }
         image2: {
             url = 'img/mike-miriam-marker-50.png',
                 size = new google.maps.Size(87, 43),
                 origin = new google.maps.Point(0, 0),
-                anchor = new google.maps.Point(41, 39)
+                anchor = new google.maps.Point(41, 39);
         }
         shape2: {
             coords = [1, 1, 86, 1, 86, 42, 1, 42],
-                type = 'poly'
+                type = 'poly';
         }
     }
 };
